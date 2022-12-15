@@ -1,0 +1,10 @@
+pip
+Cython
+pyproj
+numpy
+pandas
+geopandas
+plotly-express
+Shapely
+osmnx
+streamlit
