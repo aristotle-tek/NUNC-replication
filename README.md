@@ -7,6 +7,9 @@ Fichiers réplication pour le projet Nouveaux Usages du Numérique et Continuit�
 Ce dépôt est constitué de fichiers de réplication du projet NUNC! Analyse Automatisée des Alertes, de la [Laboratoire Techné](https://techne.labo.univ-poitiers.fr/nunc/), financé par la [Fondation Maison des Sciences de l’Homme](https://www.fmsh.fr/fr/projets-soutenus/nouveaux-usages-du-numerique-et-continuites-analyse-automatisee-des-alertes)
 .
 
+Le moyen le plus simple de voir les résultats est d'accéder à l'application Web Streamlit [ ici : https://aristotle-tek-nunc-multipageaccueil-0q1uwk.streamlit.app/](https://aristotle-tek-nunc-multipageaccueil-0q1uwk.streamlit.app/)
+
+
 ## Aperçu
 
 Le code est basé sur trois aspects principaux, dans les dossiers correspondants :
@@ -18,7 +21,6 @@ Le code est basé sur trois aspects principaux, dans les dossiers correspondants
 
 3. (streamlit) Présenter ces informations dans une application Web interactive à l'aide de Streamlit.
 
-Pour voir la webapp, [cliquez ici : https://aristotle-tek-nunc-multipageaccueil-0q1uwk.streamlit.app/](https://aristotle-tek-nunc-multipageaccueil-0q1uwk.streamlit.app/)
 
 
 
